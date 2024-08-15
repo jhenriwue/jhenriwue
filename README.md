@@ -1,5 +1,5 @@
 -  Hi, I’m Henrique!
--  I’m interested in Java, Python, OOP and Data Structure
+-  I’m interested in SRE, Caching and IA
 -  I’m currently learning more about System and Data Analysis
 -  I’m looking to collaborate on Projects, Labs and anything like that
 
