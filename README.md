@@ -1,9 +1,9 @@
-# Hi, I'm Jhenriwue
+# Hi, I'm JH
 
 Music addicted CS undergraduate.
 
 ## ⚡ My Stats
-[![Jhenriwue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriwue&theme=gruvbox&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![JH's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriwue&theme=gruvbox&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriwue&theme=gruvbox&layout=compact&custom_title=Used%20Languages&size_weight=0.1&count_weight=0.9&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
