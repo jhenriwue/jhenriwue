@@ -20,7 +20,7 @@ Music addicted CS undergraduate.
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white) |
 
 ##  Social 
-<a href="https://www.linkedin.com/in/joão-henrique-simoes-ramalho-a94118231">
+<a href="https://www.linkedin.com/in/jhenriwue">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:joao.ramalho@ccc.ufcg.edu.br">
